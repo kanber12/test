@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<routing>
+<vehicle name="Vehicle-0">
+<customer>
+<id>TimeWindowedCustomer-3</id>
+<sequence>1</sequence>
+</customer>
+<customer>
+<id>TimeWindowedCustomer-2</id>
+<sequence>2</sequence>
+</customer>
+</vehicle>
+<vehicle name="Vehicle-1"/>
+<vehicle name="Vehicle-2"/>
+<vehicle name="Vehicle-3"/>
+<vehicle name="Vehicle-4"/>
+</routing>
